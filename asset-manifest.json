@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kylejson.github.io/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/kylejson.github.io/static/js/main.2e236a39.chunk.js",
+    "main.js.map": "/kylejson.github.io/static/js/main.2e236a39.chunk.js.map",
+    "runtime-main.js": "/kylejson.github.io/static/js/runtime-main.6d8efc69.js",
+    "runtime-main.js.map": "/kylejson.github.io/static/js/runtime-main.6d8efc69.js.map",
+    "static/js/2.722e8f41.chunk.js": "/kylejson.github.io/static/js/2.722e8f41.chunk.js",
+    "static/js/2.722e8f41.chunk.js.map": "/kylejson.github.io/static/js/2.722e8f41.chunk.js.map",
+    "static/js/3.24be9824.chunk.js": "/kylejson.github.io/static/js/3.24be9824.chunk.js",
+    "static/js/3.24be9824.chunk.js.map": "/kylejson.github.io/static/js/3.24be9824.chunk.js.map",
+    "index.html": "/kylejson.github.io/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/kylejson.github.io/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.722e8f41.chunk.js.LICENSE.txt": "/kylejson.github.io/static/js/2.722e8f41.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/kylejson.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d8efc69.js",
+    "static/js/2.722e8f41.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.2e236a39.chunk.js"
+  ]
+}
