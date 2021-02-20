@@ -1,9 +1,11 @@
-import React from 'react';
+import React from "react";
 
-const Skills = props => (
-	<div className="skills">
-		<h2>Skills</h2>
-	</div>	
+const Skills = (props) => (
+  <div className="skills">
+    <div className="grid-container">
+      <h2>Skills</h2>
+    </div>
+  </div>
 );
 
 export default Skills;
