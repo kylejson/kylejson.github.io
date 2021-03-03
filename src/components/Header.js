@@ -1,5 +1,6 @@
 import React from "react";
-import avatar from "../img/Avatar.png";
+import avatar from "../img/avatar.jpg";
+import avatar_alt from "../img/avatar2.jpg";
 
 const Header = (props) => (
   <header className="hero grid-container">
@@ -22,8 +23,9 @@ const Header = (props) => (
         .
       </p>
 
-      <div className="cell small-12 medium-6">
-        <img src={avatar} alt="avatar" />
+      <div className="cell small-12 medium-6 avatar">
+        <img src={avatar_alt} alt="avatar" />
+        <div className="rectangle"></div>
       </div>
     </div>
   </header>

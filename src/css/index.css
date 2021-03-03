@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "open-sans-regular",
+  font-family: "open-sans-regular", -apple-system, BlinkMacSystemFont,
     "Helvetica Neue", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -61,25 +61,41 @@ body {
   border-bottom: 5px solid #3e4755;
 }
 
+h2 {
+  font-family: poppins-semi;
+  text-transform: uppercase;
+  font-size: 2rem;
+}
+
+section {
+  background-color: #f5faff;
+}
+
 nav {
   font-family: poppins-semi;
-  font-size: 1em;
+  font-size: 1rem;
   text-transform: uppercase;
   height: 80px;
 }
 
 nav li {
-  padding: 1.75em 10px;
+  padding: 1.75rem 10px;
   cursor: pointer;
 }
 
 .hero {
-  padding: 10% 0;
-  font-size: 1.5em;
+  padding: 3.5rem 0;
+  font-size: 1.75rem;
   font-family: poppins-bold;
 }
 
-hero p {
+.hero p {
+  padding-top: 3rem;
+  padding-left: 2rem;
+}
+
+.avatar {
+  position: relative;
 }
 
 .hero a {
@@ -89,9 +105,79 @@ hero p {
 .hero img {
   display: flex;
   margin: 0 auto;
+  vertical-align: middle;
+  max-width: 250px;
+  border-radius: 50%;
+  position: relative;
+  z-index: 2;
+}
+
+.avatar .rectangle {
+  background-color: #68ebc9;
+  width: 145px;
+  height: 140px;
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  z-index: 1;
 }
 
 .skills {
-  background-color: #f5faff;
-  height: 200px;
+  min-height: 200px;
+  padding: 3rem 0 3rem 2rem;
+  font-size: 1.25rem;
+  font-weight: medium;
+}
+
+.skills ul {
+  list-style-type: none;
+  margin: 1.5rem 0 0 0;
+}
+
+.skills .grid-container {
+  padding-top: 2rem;
+  padding-left: 1rem;
+}
+
+.work a {
+  color: #ff685c;
+  font-family: poppins-semi;
+}
+/* Footer */
+
+footer {
+  background-color: #3e4755;
+  color: #fff;
+  margin: 0;
+}
+
+footer p {
+  margin: 0;
+  vertical-align: middle;
+}
+
+footer .grid-x {
+  padding: 3rem 0 1.5rem 0;
+}
+
+footer ul {
+  list-style-type: none;
+}
+
+footer ul li {
+  display: inline;
+  padding: 0 0 0 1rem;
+  cursor: pointer;
+}
+
+footer a {
+  color: #fff;
+}
+
+footer i {
+  font-size: 2rem;
+}
+
+footer a:hover {
+  color: #ff685c;
 }
