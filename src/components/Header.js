@@ -1,5 +1,4 @@
 import React from "react";
-import avatar from "../img/avatar.jpg";
 import avatar_alt from "../img/avatar2.jpg";
 
 const Header = (props) => (
