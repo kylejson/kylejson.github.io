@@ -41,8 +41,8 @@ class App extends React.Component {
         <Header />
         <Skills />
         <Work />
-        <Experience jobs={this.state.jobs} />
-        <Education />
+        {/* <Experience jobs={this.state.jobs} /> */}
+        {/* <Education /> */}
         <Footer />
       </div>
     );

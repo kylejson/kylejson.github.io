@@ -6,8 +6,8 @@ const Navigation = (props) => (
       <ul className="menu align-right">
         <li>Skills</li>
         <li>Work</li>
-        <li>Experience</li>
-        <li>Education</li>
+        {/* <li>Experience</li> */}
+        {/* <li>Education</li> */}
       </ul>
     </nav>
   </div>

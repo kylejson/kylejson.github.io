@@ -1,29 +1,88 @@
 import React from "react";
+import revolt_img from "../img/revolt-player.gif";
+import uploader_img from "../img/cv-uploader.gif";
+import files_table_img from "../img/cv-files-table.gif";
+import tags_img from "../img/cv-tags.gif";
 
 const Work = (props) => (
   <div className="work grid-container">
     <h2>Work</h2>
     <div className="grid-x">
-      <p>
-        <a
-          href="https://product.voxmedia.com/2019/4/30/18515468/designing-for-publishing-tools"
-          target="_blank"
-          rel="noreferrer"
-        >
-          Designing for publishing tools
-        </a>{" "}
-        - How we design industry leading publishing tools such as Chorus Video
-      </p>
-      <p>
-        <a
-          href="https://product.voxmedia.com/2018/11/6/18065764/introducing-resonance"
-          target="_blank"
-          rel="noreferrer"
-        >
-          Introducing Resonance
-        </a>{" "}
-        - Creating a design system to power Chorus
-      </p>
+      <div className="cell small-12">
+        <p>
+          <a
+            href="https://product.voxmedia.com/2019/4/30/18515468/designing-for-publishing-tools"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Designing for publishing tools
+          </a>{" "}
+          - How we design industry leading publishing tools such as Chorus Video
+        </p>
+        <p>
+          <a
+            href="https://product.voxmedia.com/2018/11/6/18065764/introducing-resonance"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Introducing Resonance
+          </a>{" "}
+          - Creating a design system to power Chorus
+        </p>
+      </div>
+    </div>
+    <hr></hr>
+    <div className="grid-x">
+      <div className="cell small-12 medium-10">
+        <h5>Revolt custom video player</h5>
+        <p>
+          Built a custom, theme-able video player that is used as a primary
+          player on Revolt.tv
+        </p>
+        <div className="bar">
+          <div className="green"></div>
+          <div className="yellow"></div>
+          <div className="red"></div>
+        </div>
+        <img src={revolt_img} alt="Revolt custom video player"></img>
+      </div>
+      <div className="cell small-12 medium-10">
+        <h5>Chorus Video Upload Sidebar</h5>
+        <p>
+          Built an upload feature with drag and drop functionality, upload
+          progress, and failure states.
+        </p>
+        <div className="bar">
+          <div className="green"></div>
+          <div className="yellow"></div>
+          <div className="red"></div>
+        </div>
+        <img src={uploader_img} alt="Chorus Video Uploader"></img>
+      </div>
+      <div className="cell small-12 medium-10">
+        <h5>Chorus Video Files Table</h5>
+        <p>
+          Built a table view for video project files with processing states.
+        </p>
+        <div className="bar">
+          <div className="green"></div>
+          <div className="yellow"></div>
+          <div className="red"></div>
+        </div>
+        <img src={files_table_img} alt="Chorus Video files table"></img>
+      </div>
+      <div className="cell small-12 medium-10">
+        <h5>Video Tags metadata search component</h5>
+        <p>
+          Built a table view for video project files with processing states.
+        </p>
+        <div className="bar">
+          <div className="green"></div>
+          <div className="yellow"></div>
+          <div className="red"></div>
+        </div>
+        <img src={tags_img} alt="Video Tags component"></img>
+      </div>
     </div>
   </div>
 );

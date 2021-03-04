@@ -67,6 +67,14 @@ h2 {
   font-size: 2rem;
 }
 
+h5 {
+  font-family: open-sans-semi;
+}
+
+hr {
+  margin-top: 0;
+}
+
 section {
   background-color: #f5faff;
 }
@@ -91,7 +99,7 @@ nav li {
 
 .hero p {
   padding-top: 3rem;
-  padding-left: 2rem;
+  padding-left: 1rem;
 }
 
 .avatar {
@@ -124,7 +132,7 @@ nav li {
 
 .skills {
   min-height: 200px;
-  padding: 3rem 0 3rem 2rem;
+  padding: 3rem 1rem 3rem 1rem;
   font-size: 1.25rem;
   font-weight: medium;
 }
@@ -134,15 +142,59 @@ nav li {
   margin: 1.5rem 0 0 0;
 }
 
-.skills .grid-container {
-  padding-top: 2rem;
-  padding-left: 1rem;
+.work {
+  padding: 3rem 1rem 3rem 1rem;
 }
 
 .work a {
   color: #ff685c;
   font-family: poppins-semi;
 }
+
+.work .cell {
+  margin: 1rem 0;
+}
+
+.work img {
+  border-bottom: 1px solid #bcbec0;
+  border-left: 1px solid #bcbec0;
+  border-right: 1px solid #bcbec0;
+}
+
+.bar {
+  background-color: #bcbec0;
+  height: 22px;
+  padding: 7px;
+  /* max-width: 500px; */
+  border-radius: 5px 5px 0 0;
+}
+
+.bar > div {
+  float: left;
+  margin-left: 5px;
+}
+
+.green {
+  background-color: #39d1b4;
+  border-radius: 50%;
+  height: 9px;
+  width: 9px;
+}
+
+.yellow {
+  background-color: #fff799;
+  border-radius: 50%;
+  height: 9px;
+  width: 9px;
+}
+
+.red {
+  background-color: #f65a5b;
+  border-radius: 50%;
+  height: 9px;
+  width: 9px;
+}
+
 /* Footer */
 
 footer {
