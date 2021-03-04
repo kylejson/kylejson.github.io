@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/kylejson.github.io/static/css/main.209b4bdd.chunk.css",
-    "main.js": "/kylejson.github.io/static/js/main.2239b776.chunk.js",
-    "main.js.map": "/kylejson.github.io/static/js/main.2239b776.chunk.js.map",
-    "runtime-main.js": "/kylejson.github.io/static/js/runtime-main.ea3574ff.js",
-    "runtime-main.js.map": "/kylejson.github.io/static/js/runtime-main.ea3574ff.js.map",
-    "static/js/2.466185c7.chunk.js": "/kylejson.github.io/static/js/2.466185c7.chunk.js",
-    "static/js/2.466185c7.chunk.js.map": "/kylejson.github.io/static/js/2.466185c7.chunk.js.map",
-    "static/js/3.026a0849.chunk.js": "/kylejson.github.io/static/js/3.026a0849.chunk.js",
-    "static/js/3.026a0849.chunk.js.map": "/kylejson.github.io/static/js/3.026a0849.chunk.js.map",
-    "index.html": "/kylejson.github.io/index.html",
-    "static/css/main.209b4bdd.chunk.css.map": "/kylejson.github.io/static/css/main.209b4bdd.chunk.css.map",
-    "static/js/2.466185c7.chunk.js.LICENSE.txt": "/kylejson.github.io/static/js/2.466185c7.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/kylejson.github.io/static/media/Poppins-SemiBold.cce5625b.ttf",
-    "static/media/avatar2.f3d2e021.jpg": "/kylejson.github.io/static/media/avatar2.f3d2e021.jpg",
-    "static/media/cv-files-table.e270a0ee.gif": "/kylejson.github.io/static/media/cv-files-table.e270a0ee.gif",
-    "static/media/cv-tags.9f7115f7.gif": "/kylejson.github.io/static/media/cv-tags.9f7115f7.gif",
-    "static/media/cv-uploader.ddb5ed01.gif": "/kylejson.github.io/static/media/cv-uploader.ddb5ed01.gif",
-    "static/media/revolt-player.88a776c2.gif": "/kylejson.github.io/static/media/revolt-player.88a776c2.gif"
+    "main.css": "/static/css/main.86037b8f.chunk.css",
+    "main.js": "/static/js/main.2239b776.chunk.js",
+    "main.js.map": "/static/js/main.2239b776.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4637e75c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4637e75c.js.map",
+    "static/js/2.466185c7.chunk.js": "/static/js/2.466185c7.chunk.js",
+    "static/js/2.466185c7.chunk.js.map": "/static/js/2.466185c7.chunk.js.map",
+    "static/js/3.026a0849.chunk.js": "/static/js/3.026a0849.chunk.js",
+    "static/js/3.026a0849.chunk.js.map": "/static/js/3.026a0849.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.86037b8f.chunk.css.map": "/static/css/main.86037b8f.chunk.css.map",
+    "static/js/2.466185c7.chunk.js.LICENSE.txt": "/static/js/2.466185c7.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Poppins-SemiBold.cce5625b.ttf",
+    "static/media/avatar2.f3d2e021.jpg": "/static/media/avatar2.f3d2e021.jpg",
+    "static/media/cv-files-table.e270a0ee.gif": "/static/media/cv-files-table.e270a0ee.gif",
+    "static/media/cv-tags.9f7115f7.gif": "/static/media/cv-tags.9f7115f7.gif",
+    "static/media/cv-uploader.ddb5ed01.gif": "/static/media/cv-uploader.ddb5ed01.gif",
+    "static/media/revolt-player.88a776c2.gif": "/static/media/revolt-player.88a776c2.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.ea3574ff.js",
+    "static/js/runtime-main.4637e75c.js",
     "static/js/2.466185c7.chunk.js",
-    "static/css/main.209b4bdd.chunk.css",
+    "static/css/main.86037b8f.chunk.css",
     "static/js/main.2239b776.chunk.js"
   ]
 }
