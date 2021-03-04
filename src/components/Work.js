@@ -74,7 +74,8 @@ const Work = (props) => (
       <div className="cell small-12 medium-10">
         <h5>Video Tags metadata search component</h5>
         <p>
-          Built a table view for video project files with processing states.
+          Built a search input component to search for and attach tags to video
+          projects.
         </p>
         <div className="bar">
           <div className="red"></div>
