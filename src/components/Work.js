@@ -40,9 +40,9 @@ const Work = (props) => (
           player on Revolt.tv
         </p>
         <div className="bar">
-          <div className="green"></div>
-          <div className="yellow"></div>
           <div className="red"></div>
+          <div className="yellow"></div>
+          <div className="green"></div>
         </div>
         <img src={revolt_img} alt="Revolt custom video player"></img>
       </div>
@@ -53,9 +53,9 @@ const Work = (props) => (
           progress, and failure states.
         </p>
         <div className="bar">
-          <div className="green"></div>
-          <div className="yellow"></div>
           <div className="red"></div>
+          <div className="yellow"></div>
+          <div className="green"></div>
         </div>
         <img src={uploader_img} alt="Chorus Video Uploader"></img>
       </div>
@@ -65,9 +65,9 @@ const Work = (props) => (
           Built a table view for video project files with processing states.
         </p>
         <div className="bar">
-          <div className="green"></div>
-          <div className="yellow"></div>
           <div className="red"></div>
+          <div className="yellow"></div>
+          <div className="green"></div>
         </div>
         <img src={files_table_img} alt="Chorus Video files table"></img>
       </div>
@@ -77,9 +77,9 @@ const Work = (props) => (
           Built a table view for video project files with processing states.
         </p>
         <div className="bar">
-          <div className="green"></div>
-          <div className="yellow"></div>
           <div className="red"></div>
+          <div className="yellow"></div>
+          <div className="green"></div>
         </div>
         <img src={tags_img} alt="Video Tags component"></img>
       </div>
