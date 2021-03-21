@@ -273,3 +273,14 @@ footer i {
 footer a:hover {
   color: #ff685c;
 }
+
+/* Small only */
+@media screen and (max-width: 39.9375em) {
+  .navigation {
+    display: none;
+  }
+
+  .hero {
+    padding: 1rem 0 3.5rem 0;
+  }
+}
