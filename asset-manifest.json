@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kylejson.github.io/static/css/main.1b8fad5c.chunk.css",
+    "main.css": "/kylejson.github.io/static/css/main.dd004b57.chunk.css",
     "main.js": "/kylejson.github.io/static/js/main.d3f8c732.chunk.js",
     "main.js.map": "/kylejson.github.io/static/js/main.d3f8c732.chunk.js.map",
     "runtime-main.js": "/kylejson.github.io/static/js/runtime-main.8c1f1d88.js",
@@ -10,7 +10,7 @@
     "static/js/3.664edf16.chunk.js": "/kylejson.github.io/static/js/3.664edf16.chunk.js",
     "static/js/3.664edf16.chunk.js.map": "/kylejson.github.io/static/js/3.664edf16.chunk.js.map",
     "index.html": "/kylejson.github.io/index.html",
-    "static/css/main.1b8fad5c.chunk.css.map": "/kylejson.github.io/static/css/main.1b8fad5c.chunk.css.map",
+    "static/css/main.dd004b57.chunk.css.map": "/kylejson.github.io/static/css/main.dd004b57.chunk.css.map",
     "static/js/2.518c2ef2.chunk.js.LICENSE.txt": "/kylejson.github.io/static/js/2.518c2ef2.chunk.js.LICENSE.txt",
     "static/media/index.css": "/kylejson.github.io/static/media/Poppins-SemiBold.cce5625b.ttf",
     "static/media/avatar2.f3d2e021.jpg": "/kylejson.github.io/static/media/avatar2.f3d2e021.jpg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.8c1f1d88.js",
     "static/js/2.518c2ef2.chunk.js",
-    "static/css/main.1b8fad5c.chunk.css",
+    "static/css/main.dd004b57.chunk.css",
     "static/js/main.d3f8c732.chunk.js"
   ]
 }
