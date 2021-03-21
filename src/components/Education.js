@@ -1,6 +1,6 @@
 import React from "react";
 
-const Education = (props) => (
+const Education = () => (
   <section>
     <div className="education grid-container">
       <h2>Education</h2>

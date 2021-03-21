@@ -1,7 +1,7 @@
 import React from "react";
 import avatar_alt from "../img/avatar2.jpg";
 
-const Header = (props) => (
+const Header = () => (
   <header className="hero grid-container">
     {/* <h1>Kyle Johnson</h1> */}
     <div className="grid-x">

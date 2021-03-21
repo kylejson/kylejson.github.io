@@ -1,6 +1,6 @@
 import React from "react";
 
-const Experience = (props) => {
+const Experience = () => {
   return (
     <div className="experience grid-container">
       <h2>Experience</h2>

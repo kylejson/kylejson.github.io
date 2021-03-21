@@ -4,7 +4,7 @@ import uploader_img from "../img/cv-uploader.gif";
 import files_table_img from "../img/cv-files-table.gif";
 import tags_img from "../img/cv-tags.gif";
 
-const Work = (props) => (
+const Work = () => (
   <div className="work grid-container">
     <h2>Work</h2>
     <div className="grid-x">
