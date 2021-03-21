@@ -39,6 +39,13 @@ const Work = (props) => (
           Built a custom, theme-able video player that is used as a primary
           player on Revolt.tv
         </p>
+
+        <div className="skill-tags">
+          <span>VideoJS</span>
+          <span>Rails</span>
+          <span>VueJs</span>
+        </div>
+
         <div className="bar">
           <div className="red"></div>
           <div className="yellow"></div>
@@ -52,6 +59,14 @@ const Work = (props) => (
           Built an upload feature with drag and drop functionality, upload
           progress, and failure states.
         </p>
+
+        <div className="skill-tags">
+          <span>VueJs</span>
+          <span>Rails</span>
+          <span>Sass</span>
+          <span>GraphQL</span>
+        </div>
+
         <div className="bar">
           <div className="red"></div>
           <div className="yellow"></div>
@@ -62,8 +77,16 @@ const Work = (props) => (
       <div className="cell small-12 medium-10">
         <h5>Chorus Video Files Table</h5>
         <p>
-          Built a table view for video project files with processing states.
+          Built a custom table component and view for video project files,
+          including processing states.
         </p>
+
+        <div className="skill-tags">
+          <span>VueJs</span>
+          <span>GraphQL</span>
+          <span>Rev</span>
+        </div>
+
         <div className="bar">
           <div className="red"></div>
           <div className="yellow"></div>
@@ -77,6 +100,13 @@ const Work = (props) => (
           Built a search input component to search for and attach tags to video
           projects.
         </p>
+
+        <div className="skill-tags">
+          <span>VueJs</span>
+          <span>GraphQL</span>
+          <span>Elasticsearch</span>
+        </div>
+
         <div className="bar">
           <div className="red"></div>
           <div className="yellow"></div>
