@@ -32,7 +32,6 @@ const Experience = () => {
             </a>{" "}
             - Software Engineer II
           </h5>
-          <span>Oct 2017 - present</span>
           <ul>
             <li>
               Built and documented several reusable web components for Vox
