@@ -7,17 +7,13 @@ const Header = () => (
     <div className="grid-x">
       <p className="cell small-12 medium-6">
         Hey, I'm Kyle. I'm a New York City area software engineer at{" "}
-        <a target="_blank" rel="noreferrer" href="https://corp.voxmedia.com/">
-          Vox Media
+        <a target="_blank" rel="noreferrer" href="https://coinbase.com/">
+          Coinbase
         </a>{" "}
         working on
-        <a
-          target="_blank"
-          rel="noreferrer"
-          href="https://getchorus.voxmedia.com/"
-        >
+        <a target="_blank" rel="noreferrer" href="https://coinbase.com/Earn">
           {" "}
-          Chorus
+          Earn
         </a>
         .
       </p>
