@@ -9,11 +9,6 @@ const Header = () => (
         Hey, I'm Kyle. I'm a New York City area software engineer at{" "}
         <a target="_blank" rel="noreferrer" href="https://coinbase.com/">
           Coinbase
-        </a>{" "}
-        working on
-        <a target="_blank" rel="noreferrer" href="https://coinbase.com/Earn">
-          {" "}
-          Earn
         </a>
         .
       </p>
