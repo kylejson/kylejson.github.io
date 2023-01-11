@@ -6,9 +6,9 @@ const Header = () => (
     {/* <h1>Kyle Johnson</h1> */}
     <div className="grid-x">
       <p className="cell small-12 medium-6">
-        Hey, I'm Kyle. I'm a New York City area software engineer at{" "}
-        <a target="_blank" rel="noreferrer" href="https://coinbase.com/">
-          Coinbase
+        Hey, I'm Kyle. I'm an NYC area software engineer at {""}
+        <a target="_blank" rel="noreferrer" href="https://open.nytimes.com/">
+          The New York Times
         </a>
         .
       </p>
