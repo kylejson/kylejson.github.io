@@ -4,7 +4,7 @@ const Footer = () => (
   <footer>
     <div className="grid-container">
       <div className="grid-x">
-        <p className="cell small-12 medium-6"> &copy; Kyle Johnson 2023</p>
+        <p className="cell small-12 medium-6"> &copy; Kyle Johnson 2024</p>
 
         <div className="cell small-12 medium-6">
           <ul className="float-right">
