@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/kylejson.github.io/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/kylejson.github.io/static/js/main.2e236a39.chunk.js",
-    "main.js.map": "/kylejson.github.io/static/js/main.2e236a39.chunk.js.map",
-    "runtime-main.js": "/kylejson.github.io/static/js/runtime-main.6d8efc69.js",
-    "runtime-main.js.map": "/kylejson.github.io/static/js/runtime-main.6d8efc69.js.map",
-    "static/js/2.722e8f41.chunk.js": "/kylejson.github.io/static/js/2.722e8f41.chunk.js",
-    "static/js/2.722e8f41.chunk.js.map": "/kylejson.github.io/static/js/2.722e8f41.chunk.js.map",
-    "static/js/3.24be9824.chunk.js": "/kylejson.github.io/static/js/3.24be9824.chunk.js",
-    "static/js/3.24be9824.chunk.js.map": "/kylejson.github.io/static/js/3.24be9824.chunk.js.map",
+    "main.css": "/kylejson.github.io/static/css/main.e3b8ad60.chunk.css",
+    "main.js": "/kylejson.github.io/static/js/main.20259b63.chunk.js",
+    "main.js.map": "/kylejson.github.io/static/js/main.20259b63.chunk.js.map",
+    "runtime-main.js": "/kylejson.github.io/static/js/runtime-main.a1b4ad73.js",
+    "runtime-main.js.map": "/kylejson.github.io/static/js/runtime-main.a1b4ad73.js.map",
+    "static/js/2.3b3e3a8b.chunk.js": "/kylejson.github.io/static/js/2.3b3e3a8b.chunk.js",
+    "static/js/2.3b3e3a8b.chunk.js.map": "/kylejson.github.io/static/js/2.3b3e3a8b.chunk.js.map",
+    "static/js/3.feaa7020.chunk.js": "/kylejson.github.io/static/js/3.feaa7020.chunk.js",
+    "static/js/3.feaa7020.chunk.js.map": "/kylejson.github.io/static/js/3.feaa7020.chunk.js.map",
     "index.html": "/kylejson.github.io/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/kylejson.github.io/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.722e8f41.chunk.js.LICENSE.txt": "/kylejson.github.io/static/js/2.722e8f41.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/kylejson.github.io/static/media/logo.6ce24c58.svg"
+    "static/css/main.e3b8ad60.chunk.css.map": "/kylejson.github.io/static/css/main.e3b8ad60.chunk.css.map",
+    "static/js/2.3b3e3a8b.chunk.js.LICENSE.txt": "/kylejson.github.io/static/js/2.3b3e3a8b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/kylejson.github.io/static/media/Poppins-SemiBold.cce5625b.ttf",
+    "static/media/avatar2024.419d8e2f.jpg": "/kylejson.github.io/static/media/avatar2024.419d8e2f.jpg",
+    "static/media/cv-files-table.e270a0ee.gif": "/kylejson.github.io/static/media/cv-files-table.e270a0ee.gif",
+    "static/media/cv-tags.9f7115f7.gif": "/kylejson.github.io/static/media/cv-tags.9f7115f7.gif",
+    "static/media/cv-uploader.ddb5ed01.gif": "/kylejson.github.io/static/media/cv-uploader.ddb5ed01.gif",
+    "static/media/revolt-player.88a776c2.gif": "/kylejson.github.io/static/media/revolt-player.88a776c2.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.6d8efc69.js",
-    "static/js/2.722e8f41.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.2e236a39.chunk.js"
+    "static/js/runtime-main.a1b4ad73.js",
+    "static/js/2.3b3e3a8b.chunk.js",
+    "static/css/main.e3b8ad60.chunk.css",
+    "static/js/main.20259b63.chunk.js"
   ]
 }
