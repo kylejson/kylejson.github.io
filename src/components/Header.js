@@ -1,23 +1,14 @@
 import React from "react";
-import avatar_alt from "../img/avatar2.jpg";
+import avatar_alt from "../img/avatar2024.jpg";
 
-const Header = (props) => (
+const Header = () => (
   <header className="hero grid-container">
     {/* <h1>Kyle Johnson</h1> */}
     <div className="grid-x">
       <p className="cell small-12 medium-6">
-        Hey, I'm Kyle. I'm a New York City area software engineer at{" "}
-        <a target="_blank" rel="noreferrer" href="https://corp.voxmedia.com/">
-          Vox Media
-        </a>{" "}
-        working on
-        <a
-          target="_blank"
-          rel="noreferrer"
-          href="https://getchorus.voxmedia.com/"
-        >
-          {" "}
-          Chorus
+        Hey, I'm Kyle. I'm a Senior Software Engineer at {""}
+        <a target="_blank" rel="noreferrer" href="https://open.nytimes.com/">
+          The New York Times
         </a>
         .
       </p>

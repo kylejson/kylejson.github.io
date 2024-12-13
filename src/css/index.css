@@ -7,6 +7,9 @@ body {
   color: #3e4755;
 }
 
+html {
+  scroll-behavior: smooth;
+}
 /* code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
@@ -52,13 +55,17 @@ body {
 /* Guide rules for dev */
 
 .grid-container {
-  border-left: 1px red solid;
-  border-right: 1px red solid;
+  /* border-left: 1px red solid;
+  border-right: 1px red solid; */
 }
 
 /* Navigation */
 .navigation {
   border-bottom: 5px solid #3e4755;
+  position: fixed;
+  background-color: #fff;
+  z-index: 3;
+  width: 100%;
 }
 
 h2 {
@@ -87,12 +94,12 @@ nav {
 }
 
 nav li {
-  padding: 1.75rem 10px;
+  padding: 1.75rem 5px;
   cursor: pointer;
 }
 
 .hero {
-  padding: 3.5rem 0;
+  padding: calc(80px + 3.5rem) 0 3.5rem 0;
   font-size: 1.75rem;
   font-family: poppins-bold;
 }
@@ -161,11 +168,22 @@ nav li {
   border-right: 1px solid #bcbec0;
 }
 
+.work .skill-tags {
+  margin-bottom: 1rem;
+}
+
+.work .skill-tags span {
+  background-color: #68ebc9;
+  padding: 1px 5px;
+  margin-right: 5px;
+  color: #fff;
+  font-family: poppins-medium;
+}
+
 .bar {
   background-color: #bcbec0;
   height: 22px;
   padding: 7px;
-  /* max-width: 500px; */
   border-radius: 5px 5px 0 0;
 }
 
@@ -193,6 +211,36 @@ nav li {
   border-radius: 50%;
   height: 9px;
   width: 9px;
+}
+
+.education {
+  padding: 3rem 1rem 3rem 1rem;
+}
+
+.experience a {
+  color: #ff685c;
+  font-family: poppins-semi;
+}
+
+.experience h5 {
+  display: inline-block;
+}
+
+.experience span {
+  padding: 0 0 10px 1rem;
+  display: inline-block;
+}
+
+.experience .grid-x {
+  margin-top: 1.5rem;
+}
+
+.experience ul {
+  padding-left: 0.75rem;
+}
+
+.experience ul li {
+  padding: 0.25rem 0;
 }
 
 /* Footer */
@@ -232,4 +280,15 @@ footer i {
 
 footer a:hover {
   color: #ff685c;
+}
+
+/* Small only */
+@media screen and (max-width: 39.9375em) {
+  .navigation {
+    display: none;
+  }
+
+  .hero {
+    padding: 1rem 0 3.5rem 0;
+  }
 }
