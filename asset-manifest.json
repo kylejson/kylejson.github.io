@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/kylejson.github.io/static/css/main.e3b8ad60.chunk.css",
-    "main.js": "/kylejson.github.io/static/js/main.acaf3b2e.chunk.js",
-    "main.js.map": "/kylejson.github.io/static/js/main.acaf3b2e.chunk.js.map",
-    "runtime-main.js": "/kylejson.github.io/static/js/runtime-main.a1b4ad73.js",
-    "runtime-main.js.map": "/kylejson.github.io/static/js/runtime-main.a1b4ad73.js.map",
-    "static/js/2.3b3e3a8b.chunk.js": "/kylejson.github.io/static/js/2.3b3e3a8b.chunk.js",
-    "static/js/2.3b3e3a8b.chunk.js.map": "/kylejson.github.io/static/js/2.3b3e3a8b.chunk.js.map",
-    "static/js/3.feaa7020.chunk.js": "/kylejson.github.io/static/js/3.feaa7020.chunk.js",
-    "static/js/3.feaa7020.chunk.js.map": "/kylejson.github.io/static/js/3.feaa7020.chunk.js.map",
+    "main.js": "/kylejson.github.io/static/js/main.68898ac8.chunk.js",
+    "main.js.map": "/kylejson.github.io/static/js/main.68898ac8.chunk.js.map",
+    "runtime-main.js": "/kylejson.github.io/static/js/runtime-main.affb3ed9.js",
+    "runtime-main.js.map": "/kylejson.github.io/static/js/runtime-main.affb3ed9.js.map",
+    "static/js/2.176f43c7.chunk.js": "/kylejson.github.io/static/js/2.176f43c7.chunk.js",
+    "static/js/2.176f43c7.chunk.js.map": "/kylejson.github.io/static/js/2.176f43c7.chunk.js.map",
+    "static/js/3.3b565c83.chunk.js": "/kylejson.github.io/static/js/3.3b565c83.chunk.js",
+    "static/js/3.3b565c83.chunk.js.map": "/kylejson.github.io/static/js/3.3b565c83.chunk.js.map",
     "index.html": "/kylejson.github.io/index.html",
     "static/css/main.e3b8ad60.chunk.css.map": "/kylejson.github.io/static/css/main.e3b8ad60.chunk.css.map",
-    "static/js/2.3b3e3a8b.chunk.js.LICENSE.txt": "/kylejson.github.io/static/js/2.3b3e3a8b.chunk.js.LICENSE.txt",
+    "static/js/2.176f43c7.chunk.js.LICENSE.txt": "/kylejson.github.io/static/js/2.176f43c7.chunk.js.LICENSE.txt",
     "static/media/index.css": "/kylejson.github.io/static/media/Poppins-SemiBold.cce5625b.ttf",
     "static/media/avatar_2025.8a2de139.png": "/kylejson.github.io/static/media/avatar_2025.8a2de139.png",
     "static/media/cv-files-table.e270a0ee.gif": "/kylejson.github.io/static/media/cv-files-table.e270a0ee.gif",
@@ -21,9 +21,9 @@
     "static/media/wirecutter-newsletter-component.f0906cdd.png": "/kylejson.github.io/static/media/wirecutter-newsletter-component.f0906cdd.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a1b4ad73.js",
-    "static/js/2.3b3e3a8b.chunk.js",
+    "static/js/runtime-main.affb3ed9.js",
+    "static/js/2.176f43c7.chunk.js",
     "static/css/main.e3b8ad60.chunk.css",
-    "static/js/main.acaf3b2e.chunk.js"
+    "static/js/main.68898ac8.chunk.js"
   ]
 }
