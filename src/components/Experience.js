@@ -26,6 +26,60 @@ const Experience = () => {
             <a
               target="_blank"
               rel="noreferrer"
+              href="https://open.nytimes.com/"
+            >
+              The New York Times
+            </a>{" "}
+            - Senior Software Engineer
+          </h5>
+          <ul>
+            <li>
+              Implemented a B2B based product offering with Auth0, resulting in multiple million dollar group subscription deals
+            </li>
+            <li>
+              Migrated millions of The Athletic user accounts building a bespoke login and password reset experience
+            </li>
+            <li>
+              Increased newsletter signup for Wirecutter by 15% by reducing friction with a simplified registration flow
+            </li>
+            <li>
+              Led load testing and performance readiness initiatives across NYT identity services in preparation for 2024 Election coverage, ensuring high availability under peak traffic
+            </li>
+          </ul>
+        </div>
+
+        <div className="job cell small-12 medium-10">
+          <h5>
+            <a
+              target="_blank"
+              rel="noreferrer"
+              href="https://www.coinbase.com/"
+            >
+              Coinbase
+            </a>{" "}
+            - Software Engineer IC4
+          </h5>
+          <ul>
+            <li>
+              Increased trade volume by 1.5% building an asset review feature on web and mobile clients with React
+            </li>
+            <li>
+              Drove 100k+ Coinbase Wallet downloads with an educational in app tutorial feature
+            </li>
+            <li>
+              Migrated video product surface to a Graphql based architecture from legacy REST API endpoints 
+            </li>
+            <li>
+              Implemented client side validators for user generated content
+            </li>
+          </ul>
+        </div>
+
+        <div className="job cell small-12 medium-10">
+          <h5>
+            <a
+              target="_blank"
+              rel="noreferrer"
               href="https://corp.voxmedia.com/"
             >
               Vox Media
@@ -54,67 +108,6 @@ const Experience = () => {
               Built a video upload sidebar with drag and drop, upload progress,
               and failure states.
             </li>
-          </ul>
-        </div>
-
-        <div className="job cell small-12 medium-10">
-          <h5>
-            <a
-              target="_blank"
-              rel="noreferrer"
-              href="https://paste.bywetransfer.com/"
-            >
-              Paste by FiftyThree
-            </a>{" "}
-            - Software Engineer
-          </h5>
-          <ul>
-            <li>Wrote API endpoints to facilitate Slack integrations</li>
-            <li>
-              Implemented a real time notifications module with React and Redux
-            </li>
-          </ul>
-        </div>
-
-        <div className="job cell small-12 medium-10">
-          <h5>
-            <a
-              target="_blank"
-              rel="noreferrer"
-              href="https://www.younow.com/login"
-            >
-              YouNow
-            </a>{" "}
-            - Web Application Engineer
-          </h5>
-          <ul>
-            <li>Built super chat features on top of a custom video player</li>
-            <li>Implemented a performant auto-playing feed of videos</li>
-            <li>
-              Built a gif to png sequence library for interactive stickers
-              during live broadcasts
-            </li>
-            <li>Lead the migration from jwPlayer to videoJs</li>
-          </ul>
-        </div>
-
-        <div className="job cell small-12 medium-10">
-          <h5>
-            <a target="_blank" rel="noreferrer" href="https://bitly.com/">
-              Bit.ly
-            </a>{" "}
-            - Front-end Developer
-          </h5>
-          <ul>
-            <li>
-              Implemented the marketing site redesign for Bitly Enterprise
-            </li>
-            <li>Migrated legacy Wordpress site into main web application</li>
-            <li>
-              Built a Stripe checkout integration for Bitly enterprise that
-              converted 50% more sales leads
-            </li>
-            <li>Refactored the anonymous URL shortener for maintainability</li>
           </ul>
         </div>
       </div>

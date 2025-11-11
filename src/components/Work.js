@@ -3,6 +3,7 @@ import revolt_img from "../img/revolt-player.gif";
 import uploader_img from "../img/cv-uploader.gif";
 import files_table_img from "../img/cv-files-table.gif";
 import tags_img from "../img/cv-tags.gif";
+import wirecutter_img from '../img/wirecutter-newsletter-component.png'
 
 const Work = () => (
   <div className="work grid-container">
@@ -34,10 +35,30 @@ const Work = () => (
     <hr></hr>
     <div className="grid-x">
       <div className="cell small-12 medium-10">
-        <h5>Revolt custom video player</h5>
+        <h5>Wirecutter newsletter component</h5>
+        <p>
+          Increased newsletter signup for Wirecutter by 15% by reducing friction with a simplified registration flow
+        </p>
+
+        <div className="skill-tags">
+          <span>React</span>
+          <span>NodeJs</span>
+          <span>Sass</span>
+        </div>
+
+        <div className="bar">
+          <div className="red"></div>
+          <div className="yellow"></div>
+          <div className="green"></div>
+        </div>
+        <img src={wirecutter_img} alt="Wirecutter Newsletter component"></img>
+      </div>
+
+      <div className="cell small-12 medium-10">
+        <h5>Chorus video custom player</h5>
         <p>
           Built a custom, theme-able video player that is used as a primary
-          player on Revolt.tv
+          player on several partner sites.
         </p>
 
         <div className="skill-tags">
